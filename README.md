@@ -20,3 +20,5 @@ Remind it that just enter the exact city name with correct spelling or else Open
 Here is Snipped image where i have entered the input along with the country name i.e bengaluru, in, means i want the information of Bengaluru city fo India
 
 ![image](https://user-images.githubusercontent.com/27301175/41336638-7d319dc8-6f0a-11e8-9493-45a44ef7083e.png)
+
+All done Cheers!!!
