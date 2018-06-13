@@ -21,4 +21,10 @@ Here is Snipped image where i have entered the input along with the country name
 
 ![image](https://user-images.githubusercontent.com/27301175/41336638-7d319dc8-6f0a-11e8-9493-45a44ef7083e.png)
 
-All done Cheers!!!
+You will get SMS Like this
+
+![image](https://user-images.githubusercontent.com/27301175/41337243-5a0358e4-6f0c-11e8-821f-1cccc7832e46.png)
+
+
+
+All done Cheers !!!
