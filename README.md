@@ -29,7 +29,7 @@ You will get SMS Like this
 
 
 ## **Deploying On Google cloud Compute engine for Cron**
-Till now the program is ready. But you need a server where you can put your code in which it will run automatically, i.e. no need of your PC to run the system/PC to be on. That automatic scrpit running thorugh linux is called cron.
+Till now the program is ready. But you need a server where you can put your code in which it will run automatically, i.e. no need of your PC to run the system/PC to be on.Scheduling your scrpit running in Linux is called cron.
 
 **Step 1:**
 Create a free account on google cloud where it will offer you $300 for 12 months (You may need a credit card to verify)
