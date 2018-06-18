@@ -16,9 +16,9 @@ Actually there are two different program which is integrated.
 
 2. Second is you need to send those weather data to your mobile phone as a text so for this i have used Twilio API. For this you need to have Twilio phone no, your mobile no, and Authentication token and Acount no. So to create all that here is a link you can prefer https://www.youtube.com/watch?v=hV-gy0qyET8&t=402s.
 
-## Input need to give in the code?
-Remind it that just enter the exact city name with correct spelling or else Openweather API will throw erro in the code output.
-Here is Snipped image where i have entered the input along with the country name i.e bengaluru, in, means i want the information of Bengaluru city fo India
+## Inputs needed to be give in the code?
+Remind it that just enter the exact city name with correct spelling or else Openweather API will throw error.
+Here is Snipped image where i have entered the input along with the country name i.e *bengaluru, in*, means i want the information of Bengaluru city fo India
 
 ![image](https://user-images.githubusercontent.com/27301175/41336638-7d319dc8-6f0a-11e8-9493-45a44ef7083e.png)
 
