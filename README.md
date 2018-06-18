@@ -60,7 +60,7 @@ This is my set croon tab example where i set the time to IST 2.37pm every day my
 
 ![image](https://user-images.githubusercontent.com/27301175/41527954-510c481a-7306-11e8-8d98-53e6a0ca4ff3.png)
 
-*Remember* You need change the give the time as per UTC. 
+*Remember* You need to change the time as per UTC to corresponding IST. 
 Below one is the UTC corresponding IST timing
 ![image](https://user-images.githubusercontent.com/27301175/41528161-eb6cf882-7306-11e8-97fc-772ee93dc824.png)
 
